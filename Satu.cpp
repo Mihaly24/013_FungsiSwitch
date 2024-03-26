@@ -71,6 +71,9 @@ int main()
             cout << "Pilihan anda salah" << endl;
             break;
         }
-    } while ();
+
+        system("pause");
+        system("CLS");
+    } while (pilihan != 5);
     
 }
